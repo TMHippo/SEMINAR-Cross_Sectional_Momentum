@@ -1,1 +1,1 @@
-# SEMINAR-Cross_Sectional_Momentum-
+# SEMINAR-Cross_Sectional_Momentum
