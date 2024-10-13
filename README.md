@@ -1,5 +1,5 @@
-# SEMINAR-Cross_Sectional_Momentum
-## Introduction:
+# SEMINAR Cross_Sectional_Momentum
+## Introduction
 ### Overview:
 In 1990, Jegadeesh introduced the concept of momentum in his paper ***Evidence of Predictable Behavior of Security Returns.*** Jegadeesh provided empirical evidence showing a correlation between stock returns over longer periods, thus proving the predictability of stock returns. After Jegadeesh’s publication in 1990, **Jegadeesh and Titman (1993)** further developed the concept of momentum by introducing cross-sectional momentum. <img align="left" width="40%" src="https://tradingkit.net/wp-content/uploads/2023/04/momentum-trading.jpg"> In their studies, Jegadeesh and Titman examined the relationship between past and future stock returns in the U.S. stock market. According to the findings of Jegadeesh and Titman (1993), this strategy yielded significant positive returns, even after accounting for standard risk factors and transaction costs.
 
@@ -14,3 +14,4 @@ The momentum effect has been recognized as one of the most important financial p
 Previous studies have shown that the uncertainty surrounding elections can create significant short-term volatility, affecting the trends in stock returns. Therefore, the momentum effect—which relies on past performance trends to predict future outcomes—can become distorted or difficult to predict during this period. Specifically, the cross-sectional momentum strategy, which focuses on comparing the relative performance of stocks over the same period, may face significant challenges in maintaining stable performance as policy changes and market expectations resulting from elections impact the fundamental factors of individual stocks.
 
 The research question is whether momentum strategies can remain effective in markets influenced by major political events like the U.S. presidential election. More specifically, is CSM still a viable strategy when stocks may be affected by sudden policy changes following an election? This study will delve into the analysis of the impact of U.S. elections on momentum strategies, comparing their performance before and after elections, in order to provide a more comprehensive understanding of how political events can influence the momentum effect in the stock market.
+## Method
