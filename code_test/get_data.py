@@ -1,2 +1,0 @@
-api = "epVMQ9vqe4IXIBX5CL"
-secret = "5GSEdwSOR86mSeTs2EE0MH4dKCaObBNHXObC"
